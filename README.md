@@ -3,7 +3,7 @@ this is a program i built that tries to predict stock prices. you just run it an
 
 then you can choose what kind of prediction method you want to use. theres a fast one called xgboost which is pretty good and then a much slower one called lstm which is a neural network that can sometimes be more accurate. or you can use both.
 
-## Why i made this webpage
+## Why i made this ipynb
 
 * i started trading stocks and i was really bad at it tbh
 * i was losing money just guessing so i figured i could code something to help
